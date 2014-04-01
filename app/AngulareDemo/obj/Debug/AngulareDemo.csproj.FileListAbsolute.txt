@@ -1,0 +1,6 @@
+D:\Dev\AngularDemo\app\AngulareDemo\bin\AngulareDemo.dll.config
+D:\Dev\AngularDemo\app\AngulareDemo\bin\AngulareDemo.dll
+D:\Dev\AngularDemo\app\AngulareDemo\bin\AngulareDemo.pdb
+D:\Dev\AngularDemo\app\AngulareDemo\obj\Debug\AngulareDemo.csprojResolveAssemblyReference.cache
+D:\Dev\AngularDemo\app\AngulareDemo\obj\Debug\AngulareDemo.dll
+D:\Dev\AngularDemo\app\AngulareDemo\obj\Debug\AngulareDemo.pdb

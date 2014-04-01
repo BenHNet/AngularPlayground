@@ -1,0 +1,8 @@
+﻿<div>
+    Show Studs: <input type="checkbox" ng-model="showstuds" />
+    <div data-ng-repeat="speaker in speakers | filter:showstuds" class="my-repeat-animation" style="margin: 15px;">
+        <div>
+            <a href="#/Speaker/{{speaker.id}}" >Name: {{speaker.name}}</a>
+        </div>
+    </div>
+</div>
